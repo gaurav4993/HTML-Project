@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: pink;
+}
+h1 {
+  font-family: 'Sedgwick Ave', Times, serif;
+  color: #544b45;
+}
+p {
+  font-family: cursive;
+  color: rgb(177, 197, 90); 
+  /*border-style: outset;*/
+  background-color: rgb(156, 45, 147);
+  width: 500px;
+  margin: 30px auto 10px auto;
+  font-size: 15px;
+  box-shadow: 5px 5px rgb(58, 77, 77);
+}
+a {
+  background-color: rgb(58, 77, 77);
+  text-decoration: none;
+  color: rgb(179, 255, 0);
+}
+a:hover {
+  text-decoration: underline;
+}
+#my-style {
+  color: rgb(186, 206, 98);
+  font-size: 15px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin-top: -134px;
+  border: 5px solid rgb(247, 154, 48);
+}
+main{
+  margin: 150px auto 50px auto;
+  padding: 24px;
+  border: 5px solid cornsilk;
+  background-color: rgb(145, 47, 170);
+  border-radius: 20px;
+  box-shadow: 2px 2px;
+}
